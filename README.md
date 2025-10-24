@@ -5,7 +5,7 @@
 
 
 
-<div class="separator">=====================================</div>
+<div class="separator">============================================</div>
 
 <h2>📜 SOBRE O JOGO</h2>
 
@@ -13,7 +13,7 @@
 <p>Foram utilizados recursos fundamentais da linguagem C, como <code>if</code>, <code>switch</code>, <code>struct</code> e <strong>matrizes</strong>, criando múltiplos caminhos onde <strong>cada escolha muda seu destino</strong>.</p>
 <p>O programa também é capaz de identificar automaticamente o estado do jogador (vida máxima, média ou crítica), afetando o rumo da história.</p>
 
-<div class="separator">=====================================</div>
+<div class="separator">============================================</div>
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-<div class="separator">=====================================</div>
+<div class="separator">============================================</div>
 
 <h2>⚙️ MECÂNICA PRINCIPAL</h2>
 <p>O jogador enfrenta eventos aleatórios enquanto atravessa locais como floresta, lago e montanha. Cada evento traz riscos ou recompensas, e as decisões influenciam diretamente os atributos do personagem.</p>
@@ -44,7 +44,7 @@
 
 
 
-<div class="separator">==============================</div>
+<div class="separator">============================================</div>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-<div class="separator">==============================</div>
+<div class="separator">============================================</div>
 
 
 
