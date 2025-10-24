@@ -5,7 +5,7 @@
 <div class="separator">==============================</div>
 
 <h2>📜 SOBRE O JOGO</h2>
-<p><strong>ESCOLHA SEU DESTINO</strong> foi criado para o <strong>teste de capacidade da criadora</strong> 😉</p>
+
 <p>Inspirado no jogo <strong>60 Seconds!</strong>, este projeto permite que o próprio jogador vivencie suas necessidades básicas — como <em>fome, sede, vida e inventário</em> — enquanto explora mapas misteriosos e descobre segredos ocultos.</p>
 <p>Foram utilizados recursos fundamentais da linguagem C, como <code>if</code>, <code>switch</code>, <code>struct</code> e <strong>matrizes</strong>, criando múltiplos caminhos onde <strong>cada escolha muda seu destino</strong>.</p>
 <p>O programa também é capaz de identificar automaticamente o estado do jogador (vida máxima, média ou crítica), afetando o rumo da história.</p>
