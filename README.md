@@ -1,53 +1,27 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ESCOLHA SEU DESTINO</title>
-<style>
-    body {
-        background-color: #0a0a0a;
-        color: #00ff9d;
-        font-family: "Courier New", monospace;
-        padding: 20px;
-        line-height: 1.6;
-    }
-    h1, h2 {
-        text-align: center;
-        color: #00ffaa;
-        letter-spacing: 3px;
-    }
-    .separator {
-        text-align: center;
-        font-size: 22px;
-        color: #00ffaa;
-        margin: 40px 0 20px;
-    }
-    p {
-        margin: 10px 0;
-    }
-    code {
-        color: #00ffea;
-        background-color: #111;
-        padding: 3px 6px;
-        border-radius: 5px;
-    }
-    img {
-        display: block;
-        margin: 30px auto;
-        border: 2px solid #00ffaa;
-        border-radius: 10px;
-        max-width: 90%;
-    }
-    footer {
-        margin-top: 40px;
-        text-align: center;
-        font-size: 14px;
-        color: #00ffaa;
-    }
-</style>
-</head>
-<body>
+<!D# 🎮 ESCOLHA SEU DESTINO 🎮
+
+---
+
+## 📜 SOBRE O JOGO
+
+**ESCOLHA SEU DESTINO** foi criado para o **teste de capacidade da criadora** 😉
+
+Inspirado no jogo **60 Seconds!**, este projeto permite que o próprio jogador vivencie suas necessidades básicas — como *fome, sede, vida e inventário* — enquanto explora mapas misteriosos e descobre segredos ocultos.
+
+Foram utilizados recursos fundamentais da linguagem C, como `if`, `switch`, `struct` e **matrizes**, criando múltiplos caminhos onde **cada escolha muda seu destino**.
+
+O programa também é capaz de identificar automaticamente o estado do jogador (vida máxima, média ou crítica), afetando o rumo da história.
+
+---
+
+## 🧩 SISTEMA DAS PRINCIPAIS BIBLIOTECAS
+
+```c
+#include <stdio.h>   // entrada e saída padrão (printf, scanf)
+#include <string.h>  // manipulação de strings (strcpy, strstr)
+#include <stdlib.h>  // funções gerais (rand, malloc, system)
+#include <unistd.h>  // funções de pausa (sleep, usleep)
+#include <time.h>    // gerar números aleatórios (rand, srand(time(NULL)))
 
 <h1>🎮 ESCOLHA SEU DESTINO 🎮</h1>
 
