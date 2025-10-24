@@ -46,11 +46,3 @@
 
 <div style="text-align:center; color:#ff9933;">═════════════════════════════════════════════════════════</div>
 
-<h2 style="color:#32cd32;">💀 ASSINATURA</h2>
-<footer style="text-align:center;">
-    <p><strong>Feito com ☢️ & C por <span style="color:#32cd32;">Samira</span></strong></p>
-    <p>Versão <strong style="color:#ff9933;">1.0</strong> — Projeto <em>“Escolha Seu Destino”</em></p>
-    <p>© 2025 — Todos os direitos reservados</p>
-</footer>
-
-</body>
