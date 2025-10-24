@@ -1,20 +1,6 @@
 # 🎮 ESCOLHA SEU DESTINO 🎮
 
----
 
-## 📜 SOBRE O JOGO
-
-**ESCOLHA SEU DESTINO** foi criado para o **teste de capacidade da criadora** 😉
-
-Inspirado no jogo **60 Seconds!**, este projeto permite que o próprio jogador vivencie suas necessidades básicas — como *fome, sede, vida e inventário* — enquanto explora mapas misteriosos e descobre segredos ocultos.
-
-Foram utilizados recursos fundamentais da linguagem C, como `if`, `switch`, `struct` e **matrizes**, criando múltiplos caminhos onde **cada escolha muda seu destino**.
-
-O programa também é capaz de identificar automaticamente o estado do jogador (vida máxima, média ou crítica), afetando o rumo da história.
-
----
-
-<h1>🎮 ESCOLHA SEU DESTINO 🎮</h1>
 
 <div class="separator">==============================</div>
 
