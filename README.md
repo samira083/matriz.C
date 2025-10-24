@@ -1,4 +1,4 @@
-# 🎮 ESCOLHA SEU DESTINO 🎮
+# 🎮 ESCOLHA SEU JOGO 🎮
 
 
 
