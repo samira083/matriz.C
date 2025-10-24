@@ -3,7 +3,7 @@
 
 <h1 style="text-align:center; color:#32cd32;">☣️ ESCOLHA SEU JOGO ☣️</h1>
 
-<div style="text-align:center; color:#ff9933;">═══════════════════════════════════════════</div>
+<div style="text-align:center; color:#ff9933;">═════════════════════════════════════════════════════════</div>
 
 <h2 style="color:#32cd32;">📜 SOBRE O JOGO</h2>
 
@@ -13,7 +13,7 @@
 
 <p>O programa também é capaz de identificar automaticamente o estado do jogador (vida máxima, média ou crítica), afetando o rumo da história.</p>
 
-<div style="text-align:center; color:#ff9933;">═══════════════════════════════════════════</div>
+<div style="text-align:center; color:#ff9933;">═════════════════════════════════════════════════════════</div>
 
 <h2 style="color:#32cd32;">🧩 SISTEMA DAS PRINCIPAIS BIBLIOTECAS</h2>
 
@@ -23,7 +23,7 @@
 <p><strong>#include &lt;unistd.h&gt;</strong> → <span style="color:#999;">// para usar <code>sleep()</code> e <code>usleep()</code></span></p>
 <p><strong>#include &lt;time.h&gt;</strong> → <span style="color:#999;">// gerar números aleatórios com <code>rand()</code> e <code>srand(time(NULL))</code></span></p>
 
-<div style="text-align:center; color:#ff9933;">═══════════════════════════════════════════</div>
+<div style="text-align:center; color:#ff9933;">═════════════════════════════════════════════════════════</div>
 
 <h2 style="color:#32cd32;">⚙️ MECÂNICA PRINCIPAL</h2>
 
@@ -37,14 +37,14 @@
     <li>🎒 <strong>Inventário</strong> — guarda até 10 itens úteis.</li>
 </ul>
 
-<div style="text-align:center; color:#ff9933;">═══════════════════════════════════════════</div>
+<div style="text-align:center; color:#ff9933;">═════════════════════════════════════════════════════════</div>
 
 <h2 style="color:#32cd32;">🎯 OBJETIVO DO PROJETO</h2>
 
 <p>Treinar lógica de programação, uso de <code style="color:#87cefa;">struct</code>, e manipulação de dados no terminal.</p>
 <p>Cada detalhe foi pensado para testar <strong style="color:#ff9933;">decisão, sorte e estratégia</strong> do jogador.</p>
 
-<div style="text-align:center; color:#ff9933;">═══════════════════════════════════════════</div>
+<div style="text-align:center; color:#ff9933;">═════════════════════════════════════════════════════════</div>
 
 <h2 style="color:#32cd32;">💀 ASSINATURA</h2>
 <footer style="text-align:center;">
