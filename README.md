@@ -1,4 +1,4 @@
-<!D# 🎮 ESCOLHA SEU DESTINO 🎮
+### 🎮 ESCOLHA SEU DESTINO 🎮
 
 ---
 
