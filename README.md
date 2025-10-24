@@ -2,6 +2,9 @@
 
 
 
+
+
+
 <div class="separator">=====================================</div>
 
 <h2>📜 SOBRE O JOGO</h2>
@@ -12,6 +15,9 @@
 
 <div class="separator">=====================================</div>
 
+
+
+
 <h2>🧩 SISTEMA DAS PRINCIPAIS BIBLIOTECAS</h2>
 
 <p><strong>#include &lt;stdio.h&gt;</strong> → // entrada e saída padrão (printf, scanf)</p>
@@ -21,7 +27,8 @@
 <p><strong>#include &lt;time.h&gt;</strong> → // gerar números aleatórios com <code>rand()</code> e <code>srand(time(NULL))</code></p>
 
 
-<img src="coloque_aqui_o_nome_da_imagem.png" alt="Print das bibliotecas explicadas">
+
+
 
 <div class="separator">=====================================</div>
 
@@ -35,13 +42,21 @@
     <li>🎒 <strong>Inventário</strong> — guarda até 10 itens úteis.</li>
 </ul>
 
+
+
 <div class="separator">==============================</div>
+
+
 
 <h2>🧠 OBJETIVO DO PROJETO</h2>
 <p>Treinar lógica de programação, uso de <code>struct</code>, e manipulação de dados no terminal.</p>
 <p>Cada detalhe foi pensado para testar <strong>decisão, sorte e estratégia</strong> do jogador.</p>
 
+
+
 <div class="separator">==============================</div>
+
+
 
 <h2>✨ ASSINATURA</h2>
 <footer>
