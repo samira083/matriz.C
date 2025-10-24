@@ -14,15 +14,6 @@ O programa também é capaz de identificar automaticamente o estado do jogador (
 
 ---
 
-## 🧩 SISTEMA DAS PRINCIPAIS BIBLIOTECAS
-
-```c
-#include <stdio.h>   // entrada e saída padrão (printf, scanf)
-#include <string.h>  // manipulação de strings (strcpy, strstr)
-#include <stdlib.h>  // funções gerais (rand, malloc, system)
-#include <unistd.h>  // funções de pausa (sleep, usleep)
-#include <time.h>    // gerar números aleatórios (rand, srand(time(NULL)))
-
 <h1>🎮 ESCOLHA SEU DESTINO 🎮</h1>
 
 <div class="separator">==============================</div>
