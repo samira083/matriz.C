@@ -1,7 +1,7 @@
 <!-- 🌆 README - ESCOLHA SEU JOGO -->
 <body style="font-family: 'Consolas', monospace; background-color: #0d0d0d; color: #e0e0e0;">
 
-<h1 style="text-align:center; color:#32cd32;">☣️ ESCOLHA SEU JOGO ☣️</h1>
+<h1 style="text-align:center; color:#32cd32;">☣️ ESCOLHA SEU DESTINO ☣️</h1>
 
 <div style="text-align:center; color:#ff9933;">═════════════════════════════════════════════════════════</div>
 
