@@ -4,7 +4,7 @@
 <h1 style="text-align:center; color:#32cd32;">☣️ ESCOLHA SEU DESTINO ☣️</h1>
 
 
-![linguagem](https://img.shields.io/badge/C-C-blue)
+![linguagem](https://img.shields.io/badge/linguagem-C-blue)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Interface](https://img.shields.io/badge/interface-cyberpunk-purple)
 
