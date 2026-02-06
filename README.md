@@ -4,6 +4,10 @@
 <h1 style="text-align:center; color:#32cd32;">☣️ ESCOLHA SEU DESTINO ☣️</h1>
 
 
+![C](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Interface](https://img.shields.io/badge/interface-cyberpunk-purple)
+
 <img width="1024" height="770" alt="60 seconds" src="https://github.com/user-attachments/assets/e022eb16-e2e4-422f-8795-0202d65264fc" />
 
 
