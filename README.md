@@ -5,8 +5,8 @@
 
 
 ![linguagem](https://img.shields.io/badge/linguagem-C-blue)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Interface](https://img.shields.io/badge/interface-cyberpunk-purple)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-purple)
+![Interface](https://img.shields.io/badge/interface-DANGER-yellow)
 
 <img width="1024" height="770" alt="60 seconds" src="https://github.com/user-attachments/assets/e022eb16-e2e4-422f-8795-0202d65264fc" />
 
